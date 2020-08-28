@@ -7,5 +7,6 @@
 <string name="return_sub">RETURN</string>
     <string name="button">Get Image</string>
 <string name="description">a picture</string>
+    <string name="map">Map Activity</string>
 
     </resources>
