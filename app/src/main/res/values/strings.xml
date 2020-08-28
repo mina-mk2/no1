@@ -1,12 +1,10 @@
 <resources>
-<string name="app_name">My Application2</string>
-<string name="main">Main Activity</string>
-<string name="move">MOVE</string>
-<string name="image">Image Activity</string>
-<string name="画像の名前_description">image3</string>
-<string name="return_sub">RETURN</string>
+    <string name="app_name">My Application2</string>
+    <string name="main">Main Activity</string>
+    <string name="move">MOVE</string>
+    <string name="image">Image Activity</string>
+    <string name="return_sub">RETURN</string>
     <string name="button">Get Image</string>
-<string name="description">a picture</string>
+    <string name="description">a picture</string>
     <string name="map">Map Activity</string>
-
-    </resources>
+</resources>
